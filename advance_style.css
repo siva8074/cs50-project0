@@ -1,0 +1,27 @@
+.google{
+    text-align: end;
+    text-decoration: none;
+    color: gray;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+td,th{
+    padding: 5px;;
+}
+.th{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px;
+}
+a{
+    text-decoration: none;
+}
+.submit{
+    background-color: skyblue;
+    text-decoration: none;
+    padding: 6px;
+}
